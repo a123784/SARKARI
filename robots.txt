@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a123784.github.io/SARKARI/sitemap.xml
